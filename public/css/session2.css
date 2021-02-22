@@ -1,0 +1,33 @@
+body {
+    background-color: #fafafa;
+    /*background-image: url();*/
+    background-repeat: no-repeat; /*cover cont*/
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color:#9632FF90;/*rgba(150,50,225,0,1)*/
+    .font-xize: 50px;/*(size word)*/
+    lide-height:1.5;/*(độ rộng của 1 line)*/
+    text-align:center;
+    /*border-top:10px solid green;!* dotted dashed*!*/
+    border-bottom:1px solid green;/* dotted dashed*/
+    /*border-right:10px solid green;!* dotted dashed*!*/
+    /*border-left:10px solid green;!* dotted dashed*!*/
+}
+p{
+    color:#222222;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: justify;/*(căn chữ)*/
+    width: 800px;/*(độ rộng của chữ)*/
+    text-transfom: uppercase;/*chuyển đổi kiểu chữ*/
+    text-decoration: none;/*gạch chân, gạch ngang, none*/
+    font-family: Arial;
+    font-weight: bold;/*thin 100, lighter 300...bold 700, có thể thay thế = số*/
+    background-color: #fafafa;
+}
+img{
+    max-width: 100%;
+    /*text-align: center;*/
+}
